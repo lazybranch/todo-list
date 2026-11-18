@@ -1,0 +1,20 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "web-based todo list",
+  "homepage": "https://github.com/lazybranch/todo-list#readme",
+  "bugs": {
+    "url": "https://github.com/lazybranch/todo-list/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazybranch/todo-list.git"
+  },
+  "license": "ISC",
+  "author": "Ramiro Lavie",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
