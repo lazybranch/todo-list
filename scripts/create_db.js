@@ -21,6 +21,8 @@ async function create_tables() {
         updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW(),
         finished_at TIMESTAMPTZ
     );`
+
+    console.log("TABLES CREATED");
 }
 
 module.exports = {
